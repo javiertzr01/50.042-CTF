@@ -1,0 +1,11 @@
+Alice and Bob are both students, in a relationship, who took the 50.042 Foundations of Cybersecurity module. During the module, Alice gave Bob
+a number, and told Bob that this number would be his private key if they ever used RSA. Alice was convinced that as long as the prime numbers
+she chose for n were large enough that RSA will be secure. Alice is now on Global Exchange and wishes to send Bob a message that she
+absolutely cannot allow anyone else to know about. Thus, she took measures to setup a communication channel to send Bob a message. As a nosy
+individual, you really want to know what the message is.
+
+Note: Alice’s favourite cipher is vigenere cipher and she only likes alphabets
+
+Hint: Think about how to crack RSA when p,q are relatively close to each other, where p * q = n\
+
+P.S: Using libraries like gmpy2 or sage will make your life a lot simplier
